@@ -10,12 +10,12 @@ To get start with kit you can read [Getting Started](./getting-started.md) or lo
 
 ### Clock
 
-* [Game Clock module](https://github.com/kriasoft/react-starter-kit/issues/3)
+* [Game Clock module](./components/Clock.md)
 
 ### Ticker
 
-* [Ticker module](./recipes/how-to-implement-routing.md)
+* [Ticker module](./components/Ticker.md)
 
 ### Events
 
-* [Events](./recipes/how-to-implement-routing.md) object and how it can be customized.
+* [Events](./components/Events.md) object and how it can be customized.

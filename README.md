@@ -7,10 +7,10 @@ Game Time Kit is a Unity "[asset](link)" for creating game time and events.
 **See**
 [getting started guide](./docs/getting-started.md),
 [docs](./Docs/),
-[demo][./Docs/Demo.md],
+[demo](./Docs/Demo.md),
 [roadmap](./Docs/RoadMap.md)
 
-**Buy on Asset Store** [Game Time Kit][link]
+**Buy on Asset Store** [Game Time Kit](link)
 
 
 ### Getting Started

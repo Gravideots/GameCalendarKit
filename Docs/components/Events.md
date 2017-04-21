@@ -31,7 +31,8 @@ Ticks object have a Constructor method:
     _status = status;
     _curentTickIteration = curentTickIteration;
     _curentIntervalIteration = curentIntervalIteration;
-}```
+}
+```
 
 and contain base property which care information about current tick, such as:
 
@@ -61,4 +62,5 @@ and contain base property which care information about current tick, such as:
         {
             return _curentTickIteration;
         }
-    }```
+    }
+    ```
