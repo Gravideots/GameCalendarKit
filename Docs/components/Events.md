@@ -26,7 +26,8 @@ some of Event Object have a partial keyword, that mean you can add you realizati
 
 Ticks object have a Constructor method:
 
-```public TickEventObject(bool status, int curentTickIteration, int curentIntervalIteration)
+```
+public TickEventObject(bool status, int curentTickIteration, int curentIntervalIteration)
 {
     _status = status;
     _curentTickIteration = curentTickIteration;
@@ -40,27 +41,28 @@ and contain base property which care information about current tick, such as:
 * CurentIntervalIteration
 * CurentTickIteration
 
-```public bool Status
+```
+public bool Status
+{
+    get
     {
-        get
-        {
-            return _status;
-        }
+        return _status;
     }
+}
 
-    public int CurentIntervalIteration
+public int CurentIntervalIteration
+{
+    get
     {
-        get
-        {
-            return _curentIntervalIteration;
-        }
+        return _curentIntervalIteration;
     }
+}
 
-    public int CurentTickIteration
+public int CurentTickIteration
+{
+    get
     {
-        get
-        {
-            return _curentTickIteration;
-        }
+        return _curentTickIteration;
     }
-    ```
+}
+```
