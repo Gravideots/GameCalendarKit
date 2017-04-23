@@ -1,6 +1,31 @@
 # Events
 GameTimeKit contain six events in three class and four type of Event Object. You can use them by add your method to event like on example below:
 
+Initialize GameCalendar in Calendar variable:
+
+```
+public GameCalendar Calendar;
+```
+
+create method DayOver that will wait when event CalendarDayEndEvent invoke.
+
+```
+private void DayOver(object source, GameClockEventObject clockObject)
+{
+    print("Day is over, current time is: " + clockObject.Hour + ":" + clockObject.Minute);
+}
+```
+
+add DayOver to Calendar.CalendarDayEndEvent event:
+```
+void Start()
+{
+    Calendar.CalendarDayEndEvent += DayOver;
+}
+```
+
+after invoke CalendarDayEndEvent, print method inside DayOver method will execute.
+
 ### GameCalendar Events
 * CalendarDayEndEvent - this event will invoke all contained method after the working day is over. Transmit new GameClockEventObject.
 * CalendarEventStarted - this event will invoke all contained method if GameCalendar will find some event on current time and date. Transmit new GameCalendarEventObjectList.
