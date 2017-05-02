@@ -7,8 +7,8 @@ Game Calendar Kit is a Unity asset for management game time and in-game events.
 ### How to use
 [**Wiki page**](https://github.com/Gravideots/GameCalendarKit/wiki)
 
-### Where can I buy
-Buy on Asset Store [**Game Time Kit**](link)
+### Buy on Asset Store
+[**Game Time Kit**](link)
 
 ### Learn More
   * [Events in C#](https://msdn.microsoft.com/en-us//library/edzehd2t(v=vs.110))
