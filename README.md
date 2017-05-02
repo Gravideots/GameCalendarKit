@@ -3,7 +3,7 @@
 
 ***
 
-Using [GameTimeKit asset](link) you can easily
+Using [GameTimeKit asset](http://u3d.as/PWa) you can easily
 
 * Create calendar for your game, set starting year, month, day, and time.
 * Manage your timeline. Set how much real seconds contains one in-game second. Put the game on pause, speed up or slow down the flow of time as you need using a simple method call.
@@ -43,7 +43,7 @@ Ask any question in [support thread on the Unity Forums](https://forum.unity3d.c
 ***
 
 ### Buy on Asset Store
-[**Game Time Kit**](link)
+[**Game Time Kit**](http://u3d.as/PWa)
 
 ### Learn More
   * [Events in C#](https://msdn.microsoft.com/en-us//library/edzehd2t(v=vs.110))
