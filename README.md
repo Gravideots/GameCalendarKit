@@ -5,7 +5,7 @@
 ### Demo
 [**WebGl demo**](https://gravideots.github.io/GameCalendarKit/)
 ### How to use
-[**Wiki page**](https://github.com/Gravideots/GameCalendarKit/wiki)
+[**Wiki page**](https://github.com/Gravideots/GameCalendarKit/wiki/GameCalendarKit)
 
 ### Buy on Asset Store
 [**Game Time Kit**](link)
