@@ -1,4 +1,4 @@
-# Game Calendar Kit Unity3D Asset. 
+# Game Calendar Kit Unity Asset. 
 ## In-game time and events management system.
 
 ***
