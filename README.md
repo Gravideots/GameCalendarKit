@@ -8,11 +8,23 @@ Using [GameTimeKit asset](link) you can easily
 * Manage workday. Set start and end time. This is helpful for tycoon like games, and session based games(e.g. This Is The Police, Papers Please, This War of Mine).
 * Create custom in-game events from UnityEditor with two clicks, or use force of C# scripts. You can expand event class, to get exactly what you need.
 
-### Demo
-[**WebGl demo**](https://gravideots.github.io/GameCalendarKit/)
+### [**WebGL demo**](https://gravideots.github.io/GameCalendarKit/)
 
-### How to use
-[**Wiki page**](https://github.com/Gravideots/GameCalendarKit/wiki/GameCalendarKit-Unity-Asset)
+### Usage
+ [**Getting Started**](https://github.com/Gravideots/GameCalendarKit/wiki/GameCalendarKit-Unity-Asset#getting-started)
+ [**Examples**](https://github.com/Gravideots/GameCalendarKit/wiki/GameCalendarKit-Unity-Asset#getting-started)
+ [**References**](https://github.com/Gravideots/GameCalendarKit/wiki/GameCalendarKit-Unity-Asset#references)
+
+### Feature Requests
+
+If you would like to request a new feature, please do so [using the issues](https://github.com/Gravideots/GameCalendarKit/issues)
+
+### Bugs
+
+If you find a bug or an error in the docs, please submit the issue to [our issue list](https://github.com/Gravideots/GameCalendarKit/issues).
+
+### Support 
+Ask any question in [support thread on the Unity Forums](https://forum.unity3d.com/threads/game-time-kit.467990/) 
 
 ### Buy on Asset Store
 [**Game Time Kit**](link)
