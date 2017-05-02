@@ -1,6 +1,12 @@
-## Game Calendar Kit - Unity In-game time and events management system.
+# Game Calendar Kit Unity3D Asset. 
+## In-game time and events management system.
 
-[This asset](link) give you opportunity to create calendar in your game, create working day with start time and end time, and create custom events to date and time.
+Using [GameTimeKit asset](link) you can easily
+
+* Create calendar in your game, set starting year, month, day, and time.
+* Manage your timeline. Set how much real seconds contains one in-game second. Put the game on pause, speed up or slow down the flow of time as you need using a simple method call.
+* Manage workday. Set start and end time. This is helpful for tycoon like games, and session based games(e.g. This Is The Police, Papers Please, This War of Mine).
+* Create custom in-game events from UnityEditor with two clicks, or use force of C# scripts. You can expand event class, to get exactly what you need.
 
 ### Demo
 [**WebGl demo**](https://gravideots.github.io/GameCalendarKit/)
