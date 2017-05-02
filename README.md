@@ -1,21 +1,12 @@
-## GameTimeKit documentation
-Game Time Kit is a Unity "[asset](link)" for creating game time and events.
+Game Calendar Kit is a Unity asset for management game time and in-game events.
 
-[Game Time Kit](link) give you opportunity to manage your game time, create working day with start time and end time, create custom events to current date and time.
+[Game Calendar Kit](link)give you opportunity to create calendar in your game, create working day with start time and end time, and create custom events to date and time.
 
 
-**See**
-[getting started guide](./docs/getting-started.md),
-[docs](./Docs/),
-[demo](./Docs/Demo.md),
-[roadmap](./Docs/RoadMap.md)
+**Wiki**
+[Game Calendar Kit Wiki](https://github.com/Gravideots/GameCalendarKit/wiki),
 
 **Buy on Asset Store** [Game Time Kit](link)
-
-
-### Getting Started
-
-  * Follow the [getting started guide](./docs/getting-started.md) to start use this kit.
 
 ### Learn More
 
