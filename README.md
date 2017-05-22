@@ -38,7 +38,7 @@ If you find a bug or an error in the docs, please submit the issue to [our issue
 ***
 
 ## Support 
-Ask any question in [support thread on the Unity Forums](https://forum.unity3d.com/threads/game-time-kit.467990/) 
+Ask any question in [support thread on the Unity Forums](https://forum.unity3d.com/threads/released-game-calendar-kit.472154/) 
 
 ***
 
